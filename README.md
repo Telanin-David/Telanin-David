@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/davedev_001" target="blank"><img src="https://img.shields.io/twitter/follow/davedev_001?logo=twitter&style=for-the-badge" alt="davedev_001" /></a> </p>
 
-- 🔭 I’m currently working on **Peges.inc**
+- 🔭 I’m currently working at **Peges.inc**
 
 - 🌱 I’m currently learning **Devops**
 
